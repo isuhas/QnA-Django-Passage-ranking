@@ -15,7 +15,7 @@ from nltk.corpus import stopwords
 
 
 #-----------------Data loading--------------------------------------
-df = pd.read_excel("C:/Users/Suhas/Desktop/QnA.xlsx")
+df = pd.read_excel("./QnA.xlsx")
 #--------------------------------------------------------------------
 
 passages = df["Passages"].tolist()
