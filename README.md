@@ -12,7 +12,7 @@ https://github.com/isuhas/QnA-Django-Passage-ranking/blob/master/QnA/passagerank
 5. Run python manage.py runserver <br />
 6. Open browser and enter following url<br />
 #### http://127.0.0.1:8000/predict?q=What is Kerbal Space Program<br />
-format: http://127.0.0.1:8000/predict?q=(query)<br />
+<b>format:<\b> http://127.0.0.1:8000/predict?q=(query)<br />
 
 
 
