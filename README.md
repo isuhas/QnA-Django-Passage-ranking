@@ -15,7 +15,7 @@ https://github.com/isuhas/QnA-Django-Passage-ranking/blob/master/QnA/passagerank
 #### http://127.0.0.1:8000/predict?q=What is Kerbal Space Program<br />
 <b>format:</b> http://127.0.0.1:8000/predict?q=(query)<br />
 
-
+#### Output
 ![alt text](https://github.com/isuhas/QnA-Django-Passage-ranking/blob/master/output.PNG)
 
 #### Reference:<br />
