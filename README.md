@@ -1,5 +1,6 @@
 # QnA-Django-Passage-ranking
-QnA-Django-Passage-ranking
+I have deployed this project on https://www.pythonanywhere.com
+### http://suhas123.pythonanywhere.com/predict?q=What%20is%20Kerbal%20Space%20Program
 
 ### How to use?<br />
 1. Create Virtual Environment<br />
