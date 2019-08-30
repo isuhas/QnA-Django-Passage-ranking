@@ -19,4 +19,6 @@ I have deployed this project on https://www.pythonanywhere.com
 #### Reference:<br />
 How to install Virtual Environment in Windows<br />
 https://programwithus.com/learn-to-code/Pip-and-virtualenv-on-Windows/<br />
+https://medium.com/analytics-vidhya/how-to-deploy-simple-machine-learning-models-for-free-56cdccc62b8d<br />
+https://www.pythonanywhere.com/<br />
 
